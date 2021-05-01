@@ -7,6 +7,7 @@ to explain their rationale and reveal insights. In explainable machine learning,
 accuracy as well as transparent explanations are valuable.
 
 In this repository I have implemnented the algorithom or methods proposed by Fan et al in python.
+
 Repository also contains the review of “Explainable AI for Classification using Probabilistic Logic
 Inference” by Fan et al and “Causability and explainability of artificial intelligence in medicine” by holzinget et al
 ## Dataset
